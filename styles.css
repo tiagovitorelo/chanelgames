@@ -1,0 +1,85 @@
+body {
+    background: rgb(255, 255, 255);
+    color: black;
+    font-family: "Quicksand", sans-serif;
+}
+
+header {
+    border-bottom: solid 4px black;
+    padding: 10px;
+    font-size: 60px;
+    color: purple;
+}
+
+.introducao p{
+    font-size: 20px;
+    font-weight: 600;
+}
+
+.introducao a {
+    padding-left: 1600;
+    padding-top: 0;
+
+}
+
+.game-Fortnite {
+    padding-top: 30px;
+}
+
+.game-Baldur {
+    padding-top: 30px;
+}
+
+.game-Horizon {
+    padding-top: 30px;
+}
+
+.game-palworld {
+    padding-top: 30px;
+}
+
+.game-resident {
+    padding-top: 30px;
+}
+
+
+.video-description{
+    display: flex;
+}
+
+.description-Fortnite{
+    margin-left: 2%;
+    font-size: 20px;
+
+}
+
+.description-Baldur{
+    margin-left: 2%;
+    font-size: 20px;
+
+}
+
+.description-horizon{
+    margin-left: 2%;
+    font-size: 20px;
+
+}
+
+.description-palworld{
+    margin-left: 2%;
+    font-size: 20px;
+
+}
+
+.description-resident{
+    margin-left: 2%;
+    font-size: 20px;
+
+}
+
+section {
+    padding-top: 20px;
+    padding-bottom: 0px;
+    padding-left: 60px;
+    padding-right: 60px;
+}
