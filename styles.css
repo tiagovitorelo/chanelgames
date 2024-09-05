@@ -1,14 +1,18 @@
+@import url('https://fonts.googleapis.com/css2?family=Krona+One&display=swap');
+
+
 body {
-    background: rgb(255, 255, 255);
+    background: rgb(41, 37, 37);
     color: black;
     font-family: "Quicksand", sans-serif;
 }
 
 header {
-    border-bottom: solid 4px black;
+    border-bottom: solid 4px white;
     padding: 10px;
     font-size: 60px;
-    color: purple;
+    font-family: "Krona One", sans-serif;;
+    color: rgb(43, 0, 255);
 }
 
 .introducao p{
@@ -22,24 +26,33 @@ header {
 
 }
 
+.introducao {
+    color: white;
+}
+
 .game-Fortnite {
     padding-top: 30px;
+    color: white;
 }
 
 .game-Baldur {
     padding-top: 30px;
+    color: white;
 }
 
 .game-Horizon {
     padding-top: 30px;
+    color: white;
 }
 
 .game-palworld {
     padding-top: 30px;
+    color: white;
 }
 
 .game-resident {
     padding-top: 30px;
+    color: white;
 }
 
 
@@ -82,4 +95,37 @@ section {
     padding-bottom: 0px;
     padding-left: 60px;
     padding-right: 60px;
+}
+
+h1 {
+    color: rgb(43, 0, 255);
+}
+
+.introducao__titulo {
+    color: white;
+}
+
+.video-fortnite {
+    border: 2px solid rgb(43, 0, 255);
+    border-radius: 30px;
+}
+
+.video-baldur {
+    border: 2px solid rgb(43, 0, 255);
+    border-radius: 30px;
+}
+
+.video-horizon {
+    border: 2px solid rgb(43, 0, 255);
+    border-radius: 30px;
+}
+
+.video-resident {
+    border: 2px solid rgb(43, 0, 255);
+    border-radius: 30px;
+}
+
+.video-palworld {
+    border: 2px solid rgb(43, 0, 255);
+    border-radius: 30px;
 }
